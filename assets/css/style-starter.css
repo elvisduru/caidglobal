@@ -12961,6 +12961,10 @@ h6 {
   color: var(--heading-color);
 }
 
+/* h1,h2,h3 {
+  font-family: "Cinzel Decorative", sans-serif;
+} */
+
 p {
   margin: 0;
   padding: 0;
@@ -13732,6 +13736,12 @@ nav ul li a:hover {
   bottom: 0;
   left: 0;
   width: 100%;
+}
+
+@media (min-width: 1024px) {
+  .shape {
+    bottom: -80px;
+  }
 }
 
 .shape svg {
