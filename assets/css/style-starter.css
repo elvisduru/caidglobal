@@ -13677,7 +13677,7 @@ nav ul li a:hover {
 }
 
 .shape path {
-  fill: var(--bg-color);
+  fill: var(--bg-grey);
 }
 
 /*==============================================================
