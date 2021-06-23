@@ -19973,7 +19973,7 @@ h3.title-service {
 .w3l-quote-6 .quote-form textarea {
   margin-bottom: 20px;
   background: var(--bg-grey);
-  text-transform: capitalize;
+  /* text-transform: capitalize; */
   height: 60px;
   border: none;
   outline: none;
